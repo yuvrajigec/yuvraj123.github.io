@@ -1,4 +1,4 @@
-<style>
+
 body {
   background-color: #EAF6F6;
 }
@@ -11,4 +11,7 @@ body {
     border-width: 7px;
     width: 5%;
 }
-</style>
+h2 {
+            border: 2px solid chartreuse;
+            padding: 25px;
+        }
